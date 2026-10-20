@@ -6,7 +6,7 @@ A MATLAB neural network that identifies which loadcase is acting on a bamboo cha
 
 ## Model
 
-| | |
+| Component | Details |
 |---|---|
 | Network | `patternnet`, a feed-forward pattern-recognition network |
 | Inputs (7) | Maximum load applied, and x/y of the load application point, the backrest/armrest junction and the armrest |
